@@ -1,0 +1,10 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: goods
+#mybatis:
+#  configuration:
+#    map-underscore-to-camel-case: true
+#  mapper-locations: classpath:mapper/*Mapper.xml
+#  type-aliases-package: com.changgou.goods.pojo
